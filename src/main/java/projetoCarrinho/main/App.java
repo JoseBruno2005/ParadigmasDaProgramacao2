@@ -7,13 +7,11 @@ import java.util.Map;
 
 public class App {
 
-    // Variáveis globais
     static List<Map<String, Object>> listaDeProdutos = new ArrayList<>();
     static float acrescimoTotal = 0;
     static float descontoTotal = 0;
     static float valorTotal = 0;
 
-    //criar produto
     public static Map<String, Object> criarProduto(String nome, String codigo, String descricao, float preco) {
         Map<String, Object> produto = new HashMap<>();
         produto.put("nome", nome);
@@ -25,13 +23,11 @@ public class App {
         return produto;
     }
 
-    //inserir item na lista
     public static String inserirItens(Map<String, Object> produto) {
         listaDeProdutos.add(produto);
         return produto.get("nome") + " adicionado!";
     }
 
-    //acréscimo em um produto
     public static void acrescimoNoProduto(String codigo, float acrescimo) {
         for (Map<String, Object> produto : listaDeProdutos) {
             if (produto.get("codigo").equals(codigo)) {
@@ -44,7 +40,6 @@ public class App {
         }
     }
 
-    //desconto em um produto
     public static void descontoNoProduto(String codigo, float desconto) {
         for (Map<String, Object> produto : listaDeProdutos) {
             if (produto.get("codigo").equals(codigo) && (float) produto.get("preco") > desconto) {
@@ -57,7 +52,6 @@ public class App {
         }
     }
 
-    //acréscimo total
     public static void setAcrescimoTotal(float acrescimoTotal) {
         float valorParaCadaProduto = acrescimoTotal / listaDeProdutos.size();
 
@@ -69,7 +63,6 @@ public class App {
         }
     }
 
-    //desconto total
     public static void setDescontoTotal(float descontoTotal) {
         float valorParaCadaProduto = descontoTotal / listaDeProdutos.size();
 
@@ -83,7 +76,6 @@ public class App {
         }
     }
 
-    // Função para finalizar a venda
     public static void finalizarVenda() {
         for (Map<String, Object> produto : listaDeProdutos) {
             acrescimoTotal += (float) produto.get("acrescimo");
