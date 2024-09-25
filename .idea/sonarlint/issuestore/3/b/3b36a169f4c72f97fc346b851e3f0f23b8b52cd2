@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡é8ñ¾ùª¢2
+O
+java:S2440	"2Remove this instantiation of "GeradorDeEntiqueta".(­Ê×¢8œŸÈ«¢2
+W
+java:S2209"5Change this instance-reference to a static reference.(³„§Êüÿÿÿÿ8»ŸÈ«¢2
+L	java:S106"+Replace this use of System.out by a logger.(ÜÂêøÿÿÿÿ8¢÷ıª¢2
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8»ŸÈ«¢2

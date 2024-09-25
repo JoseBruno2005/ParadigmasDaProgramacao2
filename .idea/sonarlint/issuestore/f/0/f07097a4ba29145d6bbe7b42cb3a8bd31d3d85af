@@ -1,0 +1,7 @@
+
+b
+java:S1192"EDefine a constant instead of duplicating this literal "^FS
+" 4 times.(¹æ·©8ª£Ç«¢2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÂÉÃ8ª£Ç«¢2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¾‘Ãžÿÿÿÿÿ8¹£Ç«¢2
