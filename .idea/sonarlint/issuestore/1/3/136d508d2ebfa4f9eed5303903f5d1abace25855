@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ƒ–³8ïëƒ¦£2
+j
+java:S6201
+"HReplace this instanceof check and cast with 'instanceof Produto produto'(¨¯—¼þÿÿÿÿ8£½é¦£2
+I
+java:S1125
+"'Remove the unnecessary boolean literal.(¨¯—¼þÿÿÿÿ8üëƒ¦£2
+j
+java:S6201"HReplace this instanceof check and cast with 'instanceof Produto produto'(±Î²œÿÿÿÿÿ8¾½é¦£2
+I
+java:S1125"'Remove the unnecessary boolean literal.(±Î²œÿÿÿÿÿ8ÿëƒ¦£2
