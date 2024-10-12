@@ -41,3 +41,15 @@ w
 Gsrc/main/java/projetoCalibradorThreads/domain/CalibradorComThreads.java,7\8\787365faf665c76ab668f87a53cca37bc4b14273
 e
 5src/main/java/projetoCalibradorThreads/main/main.java,1\f\1ffe2bf5e8447e7257b568ed365f1c1ff5a49c07
+i
+9src/main/java/controleFinanceiroComThreads/main/main.java,6\5\658ae1d1eb5f203d9242b750f666b1fadce7dc95
+s
+Csrc/main/java/controleFinanceiroComThreads/dataBaseCSV/despesas.csv,5\0\50fc683adea6df647e8a5075bd188263b5973a25
+s
+Csrc/main/java/controleFinanceiroComThreads/damain/ReadDespesas.java,7\2\7254b94963d93e7726dc11f0ceeab6c1d3f45e5a
+s
+Csrc/main/java/controleFinanceiroComThreads/damain/ReadReceitas.java,f\6\f648adf4b32ef702e87195f45b86111d9604e7b9
+s
+Csrc/main/java/controleFinanceiroComThreads/damain/ReadProvisao.java,0\4\047b56d1041c9ad176e86990af54586c49f36d89
+s
+Csrc/main/java/controleFinanceiroComThreads/damain/LeitorThread.java,0\6\06083f51860ba4ca80f156b93267d7527babbdd8

@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ô©–ýÿÿÿÿ
+€
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÿÑ¨çýÿÿÿÿ8÷Ì™è§2
+t
+java:S6201"RReplace this instanceof check and cast with 'instanceof ReadDespesas readdespesas'(ã–ÞÆùÿÿÿÿ8÷Ì™è§2
+G	java:S106"+Replace this use of System.out by a logger.(í€ÄÜ8÷Ì™è§2
+o
+java:S6201"RReplace this instanceof check and cast with 'instanceof ReadReceitas readreceitas'(ùÑÅ§8†Í™è§2
+G	java:S106"+Replace this use of System.out by a logger.(ª‘æà8†Í™è§2
+t
+java:S6201"RReplace this instanceof check and cast with 'instanceof ReadProvisao readprovisao'(ÊæÊñøÿÿÿÿ8†Í™è§2
+L	java:S106"+Replace this use of System.out by a logger.(Â‡ý×þÿÿÿÿ8†Í™è§2
+L	java:S106 "+Replace this use of System.out by a logger.(šÂŽüùÿÿÿÿ8†Í™è§2
