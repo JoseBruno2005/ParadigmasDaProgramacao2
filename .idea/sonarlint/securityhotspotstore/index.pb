@@ -53,3 +53,9 @@ s
 Csrc/main/java/controleFinanceiroComThreads/damain/ReadProvisao.java,0\4\047b56d1041c9ad176e86990af54586c49f36d89
 s
 Csrc/main/java/controleFinanceiroComThreads/damain/LeitorThread.java,0\6\06083f51860ba4ca80f156b93267d7527babbdd8
+d
+4src/main/java/calibradorMelhorado/domain/Worker.java,a\6\a68f42dbc10c54a46830fb2f73e22c4e1fb9969a
+h
+8src/main/java/calibradorMelhorado/domain/Calibrador.java,2\0\2002cb30d6a6e5c64528b8a2610425d7b05e6d4c
+[
++src/main/java/calibradorMelhorado/main.java,6\b\6b66fcea31ade6793cdff917c8a37b4263543033

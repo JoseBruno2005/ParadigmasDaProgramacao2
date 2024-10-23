@@ -4,5 +4,10 @@ v	java:S120"ZRename this package name to match the regular expression '^[a-z_
 i
 java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘8¤ğ‡í§2
 N
-java:S1602",Remove useless curly braces around statement(Ûú„ıÿÿÿÿ8Äğ‡í§2
-G	java:S106"+Replace this use of System.out by a logger.(Áíäƒ8Äğ‡í§2
+java:S1602",Remove useless curly braces around statement(Ûú„ıÿÿÿÿ8Äğ‡í§2
+G	java:S106"+Replace this use of System.out by a logger.(Áíäƒ8Äğ‡í§2
+{
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8âÂ¼•¨2
+G	java:S106*"+Replace this use of System.out by a logger.(ÅÎĞÉ8¿ö¸•¨2
+G	java:S106+"+Replace this use of System.out by a logger.(…ãßä8¿ö¸•¨2
+G	java:S106,"+Replace this use of System.out by a logger.(íï”Ü8¿ö¸•¨2

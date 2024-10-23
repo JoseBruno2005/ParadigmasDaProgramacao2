@@ -1,0 +1,12 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8áÈñ•¨2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ˆæëüÿÿÿÿ8äÈñ•¨2
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(œû¿Ø8åÈñ•¨2
+X	java:S125"<This block of commented-out lines of code should be removed.(î£ð•8Éñ•¨2
+{
+java:S21424"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8“Éñ•¨2
+L	java:S106-"+Replace this use of System.out by a logger.(¿Ìž¬üÿÿÿÿ8”Éñ•¨2
+L	java:S106."+Replace this use of System.out by a logger.(¿¶ºþÿÿÿÿ8–Éñ•¨2
+L	java:S106/"+Replace this use of System.out by a logger.(ÚˆíÉýÿÿÿÿ8—Éñ•¨2
+G	java:S1062"+Replace this use of System.out by a logger.(¹„¥©8™Éñ•¨2
